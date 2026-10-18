@@ -160,10 +160,14 @@ Skills are not MCP servers and not tools. MCP defines how an agent connects to e
 
 ### Business & Marketing
 
+- [B2B Customer Success](https://github.com/shashwatgtm/b2b-customer-success) - Find accounts at risk of churn, prepare QBRs, plan onboarding, spot upsell openings and save renewals. *By [@shashwatgtm](https://github.com/shashwatgtm)*
+- [B2B Sales Enablement](https://github.com/shashwatgtm/b2b-sales-enablement) - Client presentations, proposals, battle cards and meeting prep for B2B sales professionals. *By [@shashwatgtm](https://github.com/shashwatgtm)*
 - [Brand Build Skills](https://github.com/rampstackco/claude-skills) - 59-skill library covering the full website lifecycle: brand, design, content, SEO, dev, ops, growth, and research. Stack-agnostic with an Ahrefs MCP-powered SEO audit suite. Includes a meta-skill for writing your own. *By [@rampstackco](https://github.com/rampstackco)*
 - [Brand Guidelines](./brand-guidelines/) - Applies Anthropic's official brand colors and typography to artifacts for consistent visual identity and professional design standards.
 - [Competitive Ads Extractor](./competitive-ads-extractor/) - Extracts and analyzes competitors' ads from ad libraries to understand messaging and creative approaches that resonate.
 - [Domain Name Brainstormer](./domain-name-brainstormer/) - Generates creative domain name ideas and checks availability across multiple TLDs including .com, .io, .dev, and .ai extensions.
+- [GTM Skills (Positioning and GTM Strategy)](https://github.com/shashwatgtm/gtm-claude-skills) - Position a B2B product, write the core message and pick a go-to-market motion: product-led, sales-led, partner or community. *By [@shashwatgtm](https://github.com/shashwatgtm)*
+- [Helix AEO and GEO Toolkit](https://github.com/shashwatgtm/optise-helix-aeo-skills) - Page audits, answer blocks, buyer prompt packs and citation tracking so a B2B site is found and quoted by AI assistants. *By Optise and [@shashwatgtm](https://github.com/shashwatgtm)*
 - [Internal Comms](./internal-comms/) - Helps write internal communications including 3P updates, company newsletters, FAQs, status reports, and project updates using company-specific formats.
 - [Lead Research Assistant](./lead-research-assistant/) - Identifies and qualifies high-quality leads by analyzing your product, searching for target companies, and providing actionable outreach strategies.
 
