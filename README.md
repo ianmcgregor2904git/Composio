@@ -466,6 +466,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - [Anthropic Skills Repository](https://github.com/anthropics/skills) - Official example skills
 - [Claude Community](https://community.anthropic.com) - Discuss skills with other users
 - [Skills Marketplace](https://claude.ai/marketplace) - Discover and share skills
+- [AgentSkillsDir](https://agentskillsdir.com) - Free directory of Claude skills, MCP servers and plugins, each pinned to a public GitHub commit with setup snippets.
 
 ### Inspiration & Use Cases
 
