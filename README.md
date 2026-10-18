@@ -202,6 +202,8 @@ Skills are not MCP servers and not tools. MCP defines how an agent connects to e
 - [ship-learn-next](https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/ship-learn-next) - Skill to help iterate on what to build or learn next, based on feedback loops.
 - [tapestry](https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/tapestry) - Interlink and summarize related documents into knowledge networks.
 
+- [trustbase-skills](https://github.com/Trustbaselab/trustbase-skills) - 8 cognitive skills that turn classic books (Factfulness, Thinking Fast and Slow, Noise, Thinking in Systems, Scarcity + Deep Work, The Knowledge Illusion, Who Can You Trust?) into executable if-then rules, each with before/after validation data from a real project. Plus a meta `book-to-skill` skill: the method itself, packaged as a skill. Apache-2.0, bilingual (EN + 中文).
+
 ### Collaboration & Project Management
 
 - [git-pushing](https://github.com/mhattingpete/claude-skills-marketplace/tree/main/engineering-workflow-plugin/skills/git-pushing) - Automate git operations and repository interactions.
