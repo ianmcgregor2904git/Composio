@@ -117,6 +117,7 @@ Skills are not MCP servers and not tools. MCP defines how an agent connects to e
 
 ### Development & Code Tools
 
+- [agent-workflow](https://github.com/ehnruiz/claude-skills) - Claude Code plugin with 21 skills, 6 subagents and hooks for working with coding agents: route work to the cheapest capable model, judge gates by exit code, prove a fix's test fails without it, hand off between sessions and write tickets people can read. Install with `/plugin marketplace add ehnruiz/claude-skills` or `npx skills add ehnruiz/claude-skills`. *By [@ehnruiz](https://github.com/ehnruiz)*
 - [artifacts-builder](https://github.com/anthropics/skills/tree/main/skills/web-artifacts-builder) - Suite of tools for creating elaborate, multi-component claude.ai HTML artifacts using modern frontend web technologies (React, Tailwind CSS, shadcn/ui).
 - [aws-skills](https://github.com/zxkane/aws-skills) - AWS development with CDK best practices, cost optimization MCP servers, and serverless/event-driven architecture patterns.
 - [building-blog](https://github.com/BuildShipGrowRepeat/nextjs-sanity-blog-skill) - Adds an SEO-first, i18n-ready blog to a Next.js + Sanity site via a 40-question intake, a one-page plan, and a 20-section spec. Includes a generator for AI hero images via Gemini 3 Pro Image (Nano Banana Pro). *By [@BuildShipGrowRepeat](https://github.com/BuildShipGrowRepeat)*
