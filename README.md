@@ -472,6 +472,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - [Lenny's Newsletter](https://www.lennysnewsletter.com/p/everyone-should-be-using-claude-code) - 50 ways people use Claude Code
 - [Notion Skills](https://www.notion.so/notiondevs/Notion-Skills-for-Claude-28da4445d27180c7af1df7d8615723d0) - Notion integration skills
 - [Top Claude Skills](https://composio.dev/content/top-claude-skills)
+- [Agents Handbook](https://agentshandbook.com) - Sourced playbooks for real jobs done with Claude and other agents, each one installable as a skill
 
 
 ## Join the Community
