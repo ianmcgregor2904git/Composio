@@ -152,11 +152,11 @@ Skills are not MCP servers and not tools. MCP defines how an agent connects to e
 
 ### Data & Analysis
 
-- [citation-verification](https://github.com/KalarisLabs/research-agent-skills/tree/main/skills/citation-verification) - Checks every reference in a manuscript or .bib file against Crossref, OpenAlex and arXiv, flagging fabricated citations, DOIs that point to the wrong paper, and wrong years or authors. *By [@KalarisLabs](https://github.com/KalarisLabs)*
 - [CSV Data Summarizer](https://github.com/coffeefuelbump/csv-data-summarizer-claude-skill) - Automatically analyzes CSV files and generates comprehensive insights with visualizations without requiring user prompts. *By [@coffeefuelbump](https://github.com/coffeefuelbump)*
 - [deep-research](https://github.com/sanjay3290/ai-skills/tree/main/skills/deep-research) - Execute autonomous multi-step research using Gemini Deep Research Agent for market analysis, competitive landscaping, and literature reviews. *By [@sanjay3290](https://github.com/sanjay3290)*
 - [postgres](https://github.com/sanjay3290/ai-skills/tree/main/skills/postgres) - Execute safe read-only SQL queries against PostgreSQL databases with multi-connection support and defense-in-depth security. *By [@sanjay3290](https://github.com/sanjay3290)*
 - [recursive-research](https://github.com/Anjos2/recursive-research) - Recursive research up to PhD level across any domain (science, tech, business, arts, humanities) with source tiering, WDM + Munger inversion for autonomous decisions, and disk checkpointing to survive context compaction. *By [@Anjos2](https://github.com/Anjos2)*
+- [Research Agent Skills](https://github.com/KalarisLabs/research-agent-skills) - 280+ skills covering the full academic research lifecycle: literature and PRISMA reviews, hypothesis generation, experimental design, data analysis in biology, chemistry, medicine, physics and ML, paper writing, citation verification against Crossref and OpenAlex, journal formatting and peer review. *By [@KalarisLabs](https://github.com/KalarisLabs)*
 - [root-cause-tracing](https://github.com/obra/superpowers/tree/main/skills/root-cause-tracing) - Use when errors occur deep in execution and you need to trace back to find the original trigger.
 
 ### Business & Marketing
