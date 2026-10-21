@@ -152,6 +152,7 @@ Skills are not MCP servers and not tools. MCP defines how an agent connects to e
 
 ### Data & Analysis
 
+- [backtest-coroner](https://github.com/Cezart3/backtest-coroner) - Audits trading backtests before you trust them: era-separated holdouts, breakeven cost, random-direction placebo, edge-injection probes and prop-firm (FTMO-style) account simulation, ending in a cited verdict. Ships a dependency-free Python CLI. *By [@Cezart3](https://github.com/Cezart3)*
 - [CSV Data Summarizer](https://github.com/coffeefuelbump/csv-data-summarizer-claude-skill) - Automatically analyzes CSV files and generates comprehensive insights with visualizations without requiring user prompts. *By [@coffeefuelbump](https://github.com/coffeefuelbump)*
 - [deep-research](https://github.com/sanjay3290/ai-skills/tree/main/skills/deep-research) - Execute autonomous multi-step research using Gemini Deep Research Agent for market analysis, competitive landscaping, and literature reviews. *By [@sanjay3290](https://github.com/sanjay3290)*
 - [postgres](https://github.com/sanjay3290/ai-skills/tree/main/skills/postgres) - Execute safe read-only SQL queries against PostgreSQL databases with multi-connection support and defense-in-depth security. *By [@sanjay3290](https://github.com/sanjay3290)*
