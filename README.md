@@ -478,6 +478,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 
 - [Join our Discord](https://discord.com/invite/composio) - Chat with other developers building Claude Skills
 - [Follow on Twitter/X](https://x.com/composio) - Stay updated on new skills and features
+- [PDFnoted](https://pdfnoted.com) — Browser-first PDF workspace with AI watermark removal, annotation review, and three-jurisdiction compliance checking (CN/US/EU)
 - Questions? [support@composio.dev](mailto:support@composio.dev)
 
 ---
